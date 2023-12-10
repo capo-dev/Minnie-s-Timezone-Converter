@@ -41,7 +41,7 @@ TIMEZONE_MAPPING = {
     'MST': 'America/Denver',
     'CST': 'America/Chicago',
     'EST': 'America/New_York',
-    'GMT': 'Europe/London'  # There was a missing closing parenthesis here
+    'GMT': 'Europe/London'  
 
     # Add more mappings as needed
 }
